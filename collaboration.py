@@ -1,1 +1,1 @@
-print('Collaboration is key')
+print('COLLABORATION IS KEY')
